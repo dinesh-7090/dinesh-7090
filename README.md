@@ -1,4 +1,4 @@
-## About Me
+### About Me
 👋 Hi there! I'm Dinesh, a passionate DevOps engineer with a strong background in continuous integration and continuous deployment (CI/CD), cloud computing, and automation
 
 ## Skills
