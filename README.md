@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dinesh Yadav
+# 👋 Hi, I'm Dinesh
 
 🚀 **DevOps Engineer | Cloud & Automation Enthusiast**
 
